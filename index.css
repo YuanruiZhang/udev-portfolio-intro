@@ -7,7 +7,7 @@ body {
 header {
     background-image: url("https://scontent.fsea1-1.fna.fbcdn.net/v/t1.0-9/36858967_1706220849491766_5832505449835921408_o.jpg?_nc_cat=111&_nc_ht=scontent.fsea1-1.fna&oh=a3d08ca9d9efffab13d9107b164e8c68&oe=5C81DBDE");
     background-size: cover;
-    height: 40vw;
+    height: 60vw;
     margin-left: 0;
     margin-right: 0;
     display: flex;
@@ -36,4 +36,10 @@ footer {
 a {
     color: white;
     font-weight: bold;
+}
+
+.center{
+  text-align: left;
+  margin: 0 auto;
+  width: 20%
 }
